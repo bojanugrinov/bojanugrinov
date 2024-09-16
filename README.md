@@ -6,6 +6,8 @@ Hi, I'm **Bojan Ugrinov**! I am a highly motivated individual with a competitive
 
 ### 💼 Software Engineer Intern at Pabau Clinic Software <br>
 
+<br>
+
 ## 📖 Education
 
 ### Qinshift Academy - Fullstack Development Student
