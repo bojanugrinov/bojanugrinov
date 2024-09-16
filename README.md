@@ -21,6 +21,8 @@ I developed expertise in NodeJS and Express for scalable server-side application
 **Full Stack:**
 Combining my skills, I worked on projects integrating front end and back end technologies to create complete web applications. This included implementing RESTful APIs, handling authentication, and ensuring security best practices.
 
+<br>
+
 ## 🌐 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -38,6 +40,8 @@ Combining my skills, I worked on projects integrating front end and back end tec
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white)
+
+<br>
 
 ## 🔗 Let's Connect
 
