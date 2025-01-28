@@ -4,7 +4,7 @@
 
 Hi, I'm **Bojan Ugrinov**! I am a highly motivated individual with a competitive spirit and a strong ability to work both independently and as part of a team. My creative approach and quick adaptability allow me to thrive in new situations, while my problem-solving skills enable me to find effective solutions efficiently.
 
-### 💼 Software Engineer Intern at Pabau Clinic Software <br>
+### 💼 Software Engineer at Pabau Clinic Software <br>
 
 <br>
 
