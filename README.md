@@ -1,58 +1,61 @@
-# 👋 Hi there, I'm Bojan!
+# 👋 Hi, I'm Bojan
 
-## 👨‍💻 About Me
+- 💻 Software Engineer
 
-Hi, I'm **Bojan Ugrinov**! I am a highly motivated individual with a competitive spirit and a strong ability to work both independently and as part of a team. My creative approach and quick adaptability allow me to thrive in new situations, while my problem-solving skills enable me to find effective solutions efficiently.
+- 🌍 Based in Skopje, Macedonia
 
-## 💼 Experience
+## 🚀 About Me
 
-### Software Engineer at Pabau Clinic Software <br>
+#### Software engineer focused on building clean, reliable digital products. I focus on writing code that's easy to maintain and building experiences that feel seamless. I work well independently and in teams, adapt quickly, and always look for clean, practical solutions.
 
-Developed and maintained key features of Pabau’s clinic management platform. Improved system performance, resolved complex bugs, and contributed to both frontend and backend services. Collaborated with the engineering team to deliver stable, scalable software used daily by clinics worldwide.
+## 🛠️ Tech Stack
 
-## 📖 Education
+### Frontend:
 
-### Qinshift Academy - Fullstack Development Student
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Front End:**
-I honed my front end development skills with a strong foundation in HTML and CSS, creating well-structured and visually appealing web pages. With JavaScript and TypeScript, I developed dynamic and interactive user interfaces. Utilizing frameworks such as React and Angular, I created responsive single-page applications. I also became proficient in using styling frameworks like Tailwind and Bootstrap to streamline the design process and ensure a consistent user experience.
+### Backend:
 
-**Back End:**
-I developed expertise in NodeJS and Express for scalable server-side applications, and further refined my capabilities using NestJS for modular and efficient code architecture. My expertise extends to efficiently managing data with MongoDB and PostgreSQL.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Full Stack:**
-Combining my skills, I worked on projects integrating front end and back end technologies to create complete web applications. This included implementing RESTful APIs, handling authentication, and ensuring security best practices.
+### Tools:
 
-<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![a](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)
 
-## 🌐 Technologies & Tools
+## 📩 Contact
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+#### Get in touch for any questions, opportunities, or collaborations. Whether you want to discuss a project, need help, or just want to say hello, feel free to reach out.
 
-<br>
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojanugrinov/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/bojanugrinov)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discordapp.com/users/bokica)
+<p align="left">
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/bojanugrinov">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/users/157554386489311243">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://bojanugrinov.com">
+    <img src="https://img.shields.io/badge/Portfolio-1a3a5c?style=for-the-badge" />
+  </a>
+</p>
